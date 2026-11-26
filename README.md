@@ -149,6 +149,8 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) - Use when implementing any feature or bugfix, before writing implementation code.
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
 - [Webapp Testing](./webapp-testing/) - Tests local web applications using Playwright for verifying frontend functionality, debugging UI behavior, and capturing screenshots.
+- [Apple Dev Docs](https://github.com/BingoWon/apple-rag-mcp/tree/main/skills/apple-dev-docs) - Search 376,000+ Apple Developer documentation pages and 1,880+ WWDC video transcripts, browse SwiftUI and UIKit topics, and fetch canonical source pages via MCP or CLI. *By [@BingoWon](https://github.com/BingoWon)*
+
 
 ### Data & Analysis
 
